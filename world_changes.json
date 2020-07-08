@@ -1,0 +1,183 @@
+[
+  {
+    "world_board": "Several banks in major coastal towns are being robbed! The thieves are still on the loose!",
+    "world_change": "Bank Robbery",
+    "wiki_link": "https://tibia.fandom.com/wiki/Bank_Robbery_Mini_World_Change",
+    "note": "Os ladrões estão à solta! Hora de tentar completar o achievement 'Goldhunter'"
+  },
+  {
+    "world_board": "A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the northernmost coast!",
+    "world_change": "Nightmare Isles: Norte de Darashia",
+    "wiki_link": "https://tibia.fandom.com/wiki/Nightmare_Isles_Mini_World_Change",
+    "note": "Nightmare Isles se encontram ao norte de Darashia, cuidado!"
+  },
+  {
+    "world_board": "A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the river near Drefia!",
+    "world_change": "Nightmare Isles: Montanhas de Drefia",
+    "wiki_link": "https://tibia.fandom.com/wiki/Nightmare_Isles_Mini_World_Change",
+    "note": "Nightmare Isles se encontram nas montanhas de Drefia, cuidado!"
+  },
+  {
+    "world_board": "A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the Ankhramun tar pits!",
+    "world_change": "Nightmare Isles: Ankrahmun Tar Pits",
+    "wiki_link": "https://tibia.fandom.com/wiki/Nightmare_Isles_Mini_World_Change",
+    "note": "Nightmare Isles se encontram nas Tar Pits de Ankrahmun, cuidado!"
+  },
+  {
+    "world_board": "Sharpen your sword! The witch Wyda seems to be bored so pay her a visit!",
+    "world_change": "Bored",
+    "wiki_link": "https://tibia.fandom.com/wiki/Bored_Mini_World_Change",
+    "note": ""
+  },
+  {
+    "world_board": "An ice bridge now connects Svargrond to a frosty island, where monsters and a strange frozen creature have been sighted.",
+    "world_change": "Chyllfroest",
+    "wiki_link": "https://tibia.fandom.com/wiki/Chyllfroest_Mini_World_Change",
+    "note": "É hora de tentar domar o Ursagordão! Chyllfroest está acessível"
+  },
+  {
+    "world_board": "In case you have some spare tentacle pieces, you can now use Devovorga's very essence to enter a boss lair!",
+    "world_change": "Devovorga's Essence",
+    "wiki_link": "https://tibia.fandom.com/wiki/Devovorga%27s_Essence_Mini_World_Change",
+    "note": "Sobrou tentáculos da Devovorga? É a sua chance de matar o boss de novo"
+  },
+  {
+    "world_board": "The river south of the outlaw camp is flooding. A small island there should now be reachable safely.",
+    "world_change": "Down the Drain",
+    "wiki_link": "https://tibia.fandom.com/wiki/Down_the_Drain_Mini_World_Change",
+    "note": "Não tem o achievement 'down the drain'? É hora de ir pro sul de Outlaw camp e aproveitar a cheia do rio para acessar a ilhazinha normalmente indisponível"
+  },
+  {
+    "world_board": "The volcano on Goroma sends its fiery message into the sky. A lot of creatures are flooding the lands together with its lava.",
+    "world_change": "Fire from the Earth",
+    "wiki_link": "Não se assuse se parecer ter mais GS que o normal por perto da Bruxa Wyda.  Ela anda entediada e resolveu criar um desafio para os que ousam passar por perto de sua casa",
+    "note": "Vai a Goroma? Cuidado! Criaturas perigosas frequentam o vulcão"
+  },
+
+  {
+    "world_board": "A fiery fury gate has opened near one of the major cities somewhere in Tibia.",
+    "world_change": "Fury Gates",
+    "wiki_link": "",
+    "note": "A fury gate está aberta perto de uma das grandes cidades Tibianas"
+  },
+  {
+    "world_board": "Hail to the King! It's Kingsday in Thais, join the celebration!",
+    "world_change": "Kingsday",
+    "wiki_link": "",
+    "note": "Kingsday em Thais, não perca a comemoração!"
+  },
+  {
+    "world_board": "Looks like the Queen's own royal trees are being cut down! The lumberjacks responsible shall be put to justice.",
+    "world_change": "Lumberjack",
+    "wiki_link": "https://tibia.fandom.com/wiki/Lumberjack_Mini_World_Change",
+    "note": "Lenhadores mal intencionados estão cortando as árvores Reais! Ajude a Rainha a trazer a justiça"
+  },
+  {
+    "world_board": "Nomads travel the eternal sands of Ankrahmun's desert. There must be a camp somewhere.",
+    "world_change": "Nomads",
+    "wiki_link": "https://tibia.fandom.com/wiki/Nomads_Mini_World_Change",
+    "note": "Nomads atravessam as areias do deserto de Ankrahmun. Deve haver um acampamento algures"
+  },
+  {
+    "world_board": "Not again! Noodles has taken some royal freedom and left the castle, after him in the name of the king!",
+    "world_change": "Noodles is Gone",
+    "wiki_link": "De novo, Noodles? O cão fujão do Rei foi em uma aventura Tibiana. Ajude a levá-lo para o conforto do castelo",
+    "note": ""
+  },
+  {
+    "world_board": "Oriental ships sighted! A trader for exotic creature products may currently be visiting Carlin, Ankrahmun or Liberty Bay.",
+    "world_change": "Oriental Trader",
+    "wiki_link": "",
+    "note": "Ele voltou! Yasir online em **"
+  },
+  {
+    "world_board": "The wild animals north of the Green Claw Swamp clearly dominate the area. But poachers come here to hunt them.",
+    "world_change": "Poacher Caves: Game",
+    "wiki_link": "",
+    "note": "Hoje é dia de Bears, wolves e war wolves na Poacher's cave. Complete seu bestiário!"
+  },
+  {
+    "world_board": "Poachers are ravaging the wildlife north of the Green Claw Swamp. But the animals seem to fight back!",
+    "world_change": "Poacher Caves: Poachers",
+    "wiki_link": "",
+    "note": "Hoje é dia de Poachers e Hunters na Poacher's cave. Complete seu bestiário!"
+  },
+  {
+    "world_board": "Poachers have slaughtered nearly all wild animals north of the Green Claw Swamp. But vengeful spirits show up there now!",
+    "world_change": "Poacher Caves: Ghost Wolves",
+    "wiki_link": "",
+    "note": "Hoje é dia de Gloom Wolves e Ghost Wolves na Poacher's cave. Complete seu bestiário e garanta aquele profitanas"
+  },
+  {
+    "world_board": "The river in Zao Steppe runs deep, there may be more fish than usual!",
+    "world_change": "River Runs Deep",
+    "wiki_link": "",
+    "note": "O Rio de Zao está cheio, hora de garantir os Sandfish!"
+  },
+  {
+    "world_board": "A whole nest of spiders needs to be exterminated as Mamma Longlegs is on the loose.",
+    "world_change": "Spider Nest",
+    "wiki_link": "",
+    "note": "Muito cuidado com o caminho até Venore, Mamma Longlegs está à solta!"
+  },
+  {
+    "world_board": "Adventurers have told of a Spirit Gate in the Daramian mountains. Fight the restless undead!",
+    "world_change": "Spirit Grounds: Darama",
+    "wiki_link": "",
+    "note": "A Spirit Gate se encontra nas montanhas de Darama. Cuidado com os mortos vivos!"
+  },
+  {
+    "world_board": "Adventurers have told of a Spirit Gate in the Ghostlands. Fight the restless undead!",
+    "world_change": "Spirit Grounds: Ghostlands",
+    "wiki_link": "",
+    "note": "A Spirit Gate se encontra em Ghostlands. Cuidado com os mortos vivos!"
+  },
+  {
+    "world_board": "Adventurers have told of a Spirit Gate in Vengoth. Fight the restless undead!",
+    "world_change": "Spirit Grounds: Vengoth",
+    "wiki_link": "",
+    "note": "A Spirit Gate se encontra em Vengoth. Cuidado com os mortos vivos!"
+  },
+  {
+    "world_board": "Stampede! The Ape God has stirred up Tiquanda's elephants again!",
+    "world_change": "Stampede",
+    "wiki_link": "",
+    "note": "Os Deuses Macacos agitaram os elefantes. Hoje é dia de farmar tusk!"
+  },
+  {
+    "world_board": "Judging by the unnerved mammoths in Svargrond, enough snow has melted away to reveal some very special flora.",
+    "world_change": "Thawing",
+    "wiki_link": "",
+    "note": "O aquecimento global chegou a Svargrond. Mas pelo menos dá pra catar umas florzinhas"
+  },
+  {
+    "world_board": "Bibby Bloodbath and her crew are roaming the lands, destroying everything in their path.",
+    "world_change": "Warpath",
+    "wiki_link": "",
+    "note": "Bibby Bloodbath e seus amigos Orcs estão à solta. Cuidado para não cair em seu acampamento"
+  },
+  {
+    "world_board": "The full moon has a strange impact on the island of Grimvale. The small forest there seems darker, filled with nightly howls.",
+    "world_change": "Grimvale",
+    "wiki_link": "",
+    "note": "A lua cheia chegou, hora de farmar moonlight crystals. Mas cuidado para não virar Lobisomem e ficar preso em Grimvale"
+  },
+  {
+    "world_board": "A big iceberg has been washed up at the coast north of Port Hope. It seems to be inhabited by strange white furballs.",
+    "world_change": "Chakoya Iceberg",
+    "wiki_link": "",
+    "note": "Graças ao aquecimento global, um iceberg apareceu ao norte de Port Hope. Mate os chakoyas e garanta seus Northern Pikes"
+  },
+  {
+    "world_board": "Strange sounds echo through Trapwood as hunters and dworcs fight over the holy grounds and the game that roams there.",
+    "world_change": "Jungle Camp",
+    "wiki_link": "",
+    "note": "A guerra entre Hunters e Dworcs continua em Trapwood."
+  },
+  {
+    "world_board": "A hive infestation has been sighted south-west of Liberty Bay! An unnerving humming and buzzing is filling the air.",
+    "world_change": "Hive Outpost",
+    "wiki_link": "",
+    "note": "Se você tem medo de insetos, passe longe do sudoeste de Liberty Bay! Há muitos zumbidos e criaturas assustadoras pelo ar"
+  }
+]
