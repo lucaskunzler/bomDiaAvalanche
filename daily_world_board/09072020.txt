@@ -1,0 +1,44 @@
+12:24 Today's boosted creature: Drillworm
+12:24 Poachers are ravaging the wildlife north of the Green Claw Swamp. But the animals seem to fight back!
+12:24 Strange sounds echo through Trapwood as hunters and dworcs fight over the holy grounds and the game that roams there.
+12:24 A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the river near Drefia!
+12:24 Nomads travel the eternal sands of Ankrahmun's desert. There must be a camp somewhere.
+12:24 Judging by the unnerved mammoths in Svargrond, enough snow has melted away to reveal some very special flora.
+12:24 Adventurers have told of a Spirit Gate in the Daramian mountains. Fight the restless undead!
+12:27 Guide Jonathan: Hello there, Tekka Maki and welcome to Edron! Would you like some information and a map guide?
+12:27 Tekka Maki [208]: information
+12:27 Guide Jonathan: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers and the depot, as well as about the world status.
+12:27 Tekka Maki [208]: world status
+12:27 Guide Jonathan: If you'd like to know the status of this world just say the keyword for a world change.
+12:27 Tekka Maki [208]: change
+12:28 Guide Jonathan: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.
+12:28 Tekka Maki [208]: Horestis
+12:28 Guide Jonathan: Horestis's body has been desecrated. His curse now hangs over Ankrahmun like the shadow of the vulture and his tomb is almost empty.
+12:28 Tekka Maki [208]: Mage Tower
+12:28 Guide Jonathan: The raging mage is currently in his tower in Zao and experimenting with the portal into another dimension.
+12:28 Tekka Maki [208]: Master's Voice
+12:28 Guide Jonathan: The strange tower with the servants on Edron is covered in slime.
+12:28 Tekka Maki [208]: Swamp Fever
+12:28 Guide Jonathan: The swamp fever in Venore is currently under control, but medicine is direly needed to prevent the next outbreak.
+12:28 Tekka Maki [208]: Thornfire
+12:28 Guide Jonathan: Shadowthorn burns, and the followers of the bog with it!
+12:28 Tekka Maki [208]: Twisted Waters
+12:28 Guide Jonathan: The great lake near Port Hope is clean.
+12:28 Tekka Maki [208]: Awash
+12:28 Guide Jonathan: The mine tunnels under Kazordoon are currently flooded. Coal is needed to get the waterpumps running.
+12:28 Tekka Maki [208]: Steamship
+12:28 Guide Jonathan: The steamship from Thais to Kazordoon is currently not running - coal is needed to activate the service once again.
+12:28 Tekka Maki [208]: Horses
+12:28 Guide Jonathan: The horse services near Thais and Venore are working normally.
+12:28 Tekka Maki [208]: Overhunting
+12:28 Guide Jonathan: There are white deer roaming the region near Ab'Dendriel. Don't slay too many of them, or they will leave the region.
+12:28 Tekka Maki [208]: Demon War
+12:28 Guide Jonathan: The Shaburak are in advantage right now.
+12:28 Tekka Maki [208]: Sea Serpent
+12:28 Guide Jonathan: The Fire-Feathered Serpent dreams and the earth is bleeding lava.
+12:28 Tekka Maki [208]: Deepling
+12:28 Guide Jonathan: The inner arcanum of the deep has been breached. Now nothing can stop the assault on Qjell's dark guardians. ...
+12:28 Guide Jonathan: 40 actions against the Deeplings have been taken. It is impossible to hold this position any longer, however.
+12:28 Tekka Maki [208]: Hive
+12:28 Guide Jonathan: The hive is well defended and prepared for war. ...
+12:28 Guide Jonathan: 1 actions have been taken against the Hive Born. 200 actions are necessary to advance further into the hive.
