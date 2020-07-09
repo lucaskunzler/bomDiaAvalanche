@@ -7,19 +7,19 @@
   },
   {
     "world_board": "A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the northernmost coast!",
-    "world_change": "Nightmare Isles: Norte de Darashia",
+    "world_change": "Nightmare Isles",
     "wiki_link": "https://tibia.fandom.com/wiki/Nightmare_Isles_Mini_World_Change",
     "note": "Nightmare Isles se encontram ao norte de Darashia, cuidado!"
   },
   {
     "world_board": "A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the river near Drefia!",
-    "world_change": "Nightmare Isles: Montanhas de Drefia",
+    "world_change": "Nightmare Isles",
     "wiki_link": "https://tibia.fandom.com/wiki/Nightmare_Isles_Mini_World_Change",
     "note": "Nightmare Isles se encontram nas montanhas de Drefia, cuidado!"
   },
   {
     "world_board": "A sandstorm travels through Darama, leading to isles full of deadly creatures inside a nightmare. Avoid the Ankhramun tar pits!",
-    "world_change": "Nightmare Isles: Ankrahmun Tar Pits",
+    "world_change": "Nightmare Isles",
     "wiki_link": "https://tibia.fandom.com/wiki/Nightmare_Isles_Mini_World_Change",
     "note": "Nightmare Isles se encontram nas Tar Pits de Ankrahmun, cuidado!"
   },
@@ -92,19 +92,19 @@
   },
   {
     "world_board": "The wild animals north of the Green Claw Swamp clearly dominate the area. But poachers come here to hunt them.",
-    "world_change": "Poacher Caves: Game",
+    "world_change": "Poacher Caves",
     "wiki_link": "",
     "note": "Hoje é dia de Bears, wolves e war wolves na Poacher's cave. Complete seu bestiário!"
   },
   {
     "world_board": "Poachers are ravaging the wildlife north of the Green Claw Swamp. But the animals seem to fight back!",
-    "world_change": "Poacher Caves: Poachers",
+    "world_change": "Poacher Caves",
     "wiki_link": "",
     "note": "Hoje é dia de Poachers e Hunters na Poacher's cave. Complete seu bestiário!"
   },
   {
     "world_board": "Poachers have slaughtered nearly all wild animals north of the Green Claw Swamp. But vengeful spirits show up there now!",
-    "world_change": "Poacher Caves: Ghost Wolves",
+    "world_change": "Poacher Caves",
     "wiki_link": "",
     "note": "Hoje é dia de Gloom Wolves e Ghost Wolves na Poacher's cave. Complete seu bestiário e garanta aquele profitanas"
   },
@@ -122,19 +122,19 @@
   },
   {
     "world_board": "Adventurers have told of a Spirit Gate in the Daramian mountains. Fight the restless undead!",
-    "world_change": "Spirit Grounds: Darama",
+    "world_change": "Spirit Grounds",
     "wiki_link": "",
     "note": "A Spirit Gate se encontra nas montanhas de Darama. Cuidado com os mortos vivos!"
   },
   {
     "world_board": "Adventurers have told of a Spirit Gate in the Ghostlands. Fight the restless undead!",
-    "world_change": "Spirit Grounds: Ghostlands",
+    "world_change": "Spirit Grounds",
     "wiki_link": "",
     "note": "A Spirit Gate se encontra em Ghostlands. Cuidado com os mortos vivos!"
   },
   {
     "world_board": "Adventurers have told of a Spirit Gate in Vengoth. Fight the restless undead!",
-    "world_change": "Spirit Grounds: Vengoth",
+    "world_change": "Spirit Grounds",
     "wiki_link": "",
     "note": "A Spirit Gate se encontra em Vengoth. Cuidado com os mortos vivos!"
   },
